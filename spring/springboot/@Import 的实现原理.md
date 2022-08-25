@@ -1,1 +1,1 @@
-![[import调用逻辑.png]]
+![@Import 调用方式](./img/import_logic.png)

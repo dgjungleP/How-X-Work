@@ -7,4 +7,4 @@ This is the explanation and implement of some processes abut x.
 ### Spring Boot
 
 - [ ] [@Import](spring/springboot/@Import_logic.md)
-- [ ] AutoCaonfiguration
+- [ ] [AutoCaonfiguration](spring/springboot/AutoConfiguration_logic)

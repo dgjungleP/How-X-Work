@@ -8,6 +8,7 @@
 > 1. 带有@Configuration的配置类 (4.2版本之后可以导入普通类)
 > 2. ImportSelector的实现
 > 3. ImportBeanDedinitionRegistrar
+> [More](spring/springboot/@Import_logic.md)
 
 - @AutoConfigurationPackage
 - AutoConfigurationImportSelector

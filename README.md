@@ -6,5 +6,5 @@ This is the explanation and implement of some processes abut x.
 
 ### Spring Boot
 
-- [ ] [@Import](@Import_logic.md)
-- [ ] [AutoCaonfiguration](AutoConfiguration_logic.md)
+- [ ] [@Import](/spring/springboot/AutoConfiguration/@Import_logic.md)
+- [ ] [AutoCaonfiguration](/spring/springboot/AutoConfiguration/AutoConfiguration_logic.md)

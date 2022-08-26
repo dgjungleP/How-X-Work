@@ -1,6 +1,6 @@
 ## 调用逻辑
 
-![@Import 调用方式](/spring/img/import_logic.png)
+![@Import 调用方式](/img/import_logic.png)
 
 ## 解析
 
